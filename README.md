@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Malviya</h1>
-<h3 align="center">Here is my project on Blinkit dashboard though power Bi</h3>
+<h3 align="center"> Aspiring Data Analyst </h3>
 
 - 📫 How to reach me **gouravmalviya951@gmail.com**
 
